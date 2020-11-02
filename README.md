@@ -50,20 +50,10 @@
 
 ---
 
-<details>
-  <summary>:zap: Aktivitas terbaru di Github</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 📈 Statistik saya di Github
 
-</details>
+<img align="left" alt="Dede Gunawan " src="https://github-readme-stats.codestackr.vercel.app/api?username=dede-gunawan&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: Statistik saya di Github</summary>
-
-  <img align="left" alt="Dede Gunawan " src="https://github-readme-stats.codestackr.vercel.app/api?username=dede-gunawan&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://dede-gunawan.web.id
 [twitter]: https://twitter.com/dedegunawan1994
