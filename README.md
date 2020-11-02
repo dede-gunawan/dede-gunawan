@@ -1,4 +1,4 @@
-### Hallo, saya Dede Gunawan, pemilik website [website][website] 👋
+### Hallo, saya Dede Gunawan, pemilik website [https://dede-gunawan.web.id/][website] 👋
 
 ## Web Developer, Android Developer & Investor Saham
 
