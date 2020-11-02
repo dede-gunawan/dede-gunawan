@@ -41,6 +41,9 @@
 ### 📕 Tulisan Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Metode Weighted Product](https://dede-gunawan.web.id/metode-weighted-product/)
+- [Membuat Virtual Host & Memasang SSL/TLS pada Centos 7.](https://dede-gunawan.web.id/membuat-virtual-host-memasang-ssl-tls-pada-centos-7/)
+- [Install LAMP Stack pada Centos 7.](https://dede-gunawan.web.id/install-lamp-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dede-gunawan.web.id)
