@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Aktivitas terbaru workflow
 on:
   schedule:
     # Runs every day
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-latest:
     name: Update this repo's README with latest activity
     runs-on: ubuntu-latest
     steps:
